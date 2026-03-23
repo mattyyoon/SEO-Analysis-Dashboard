@@ -19,7 +19,7 @@ Additionally, I developed dynamic tooltip logic that generates performance insig
 
 The final dashboard highlights:
 
-High-impact pages driving organic traffic
-Pages with strong visibility but low engagement
-Engagement-efficient pages with expansion potential
-Actionable SEO optimization targets
+(1) High-impact pages driving organic traffic
+(2) Pages with strong visibility but low engagement
+(3) Engagement-efficient pages with expansion potential
+(4) Actionable SEO optimization targets
